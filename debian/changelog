@@ -1,9 +1,11 @@
-mx-tour (21.0.0-1~mx21+1.1) UNRELEASED; urgency=medium
+mx-tour (21.0.0-1~mx21+1.2) UNRELEASED; urgency=medium
 
   * Non-maintainer upload.
   * Beginning text revisions for MXFB
-  * mxfb_mx_snapshot, mxfb_dock and mxfb_app_finder 
- -- Jerry <jb@mx>  Fri, 09 Jun 2023 09:06:35 -0400
+  * mxfb_mx_snapshot, mxfb_dock and mxfb_app_finder
+  * finished revision of mxfb_app_finder 
+
+ -- Jerry <jb@mx>  Fri, 09 Jun 2023 16:30:14 -0400
 
 mx-tour (21.0.0-1~mx21+1) mx; urgency=medium
 
