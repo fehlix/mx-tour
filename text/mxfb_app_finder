@@ -1,4 +1,11 @@
-Appfinder, the Applications Menu, is a easy to use and flexible main menu.
+The Applications Menu ("Appfinder") is opened by Left-Clicking on the MX logo in the Panel. 
 
+It consists of three main areas:
+(1) Search Bar at the top
+(2) Tabs on the left side for Applications (default), Categories and Help 
+(3) Tab details on the right side
 
+The search field is automatically focused when opening the menu, so you can just search by application name or general words such as "browser". To open an application, Click on your selection or press Return. You can edit the menu behavior and appearance using the contents of the Help tab.
+
+There is a second applications menu (the "rootMenu") which is revealed by a right-click on the desktop. It is a static and very rapid menu of common applications that can easily be edited by the user.
 
