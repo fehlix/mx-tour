@@ -2,8 +2,8 @@ The Quick Launch Application Dock sits on the left side of the screen and by def
 
 It consists of:
 (1) MX Tools
-(2) MX Fluxbox User Manual
-(3) MX Fluxbox Settings Manager
+(2) MX Fluxbox Settings Manager
+(3) MX Fluxbox User Manual
  
 The default dock can easily be modified using MX Dockmaker; furthermore, it can be placed on auto-hide or cancelled completely using the root Menu > Out of Sight.
 
