@@ -8,7 +8,7 @@ There are three very different application finders in MXFB, providing the user w
 
 The search field is automatically focused when opening the menu, so you can just search by application name or general words such as "browser". To open an application, Click on your selection or press Return. You can edit the menu behavior and appearance using the contents of the Help tab.
 
-(Appfinder is built using "rofi," a very flexible and fast app with many        applications that can be launched by pressing the logo or super key. Its settings are available in a separate app "Rofi Manager" that includes a large selection of possible templates.)
+(Appfinder is built using "rofi," a very flexible and fast app with many applications that can be launched by pressing the logo or super key. Its settings are available in a separate app "Rofi Manager" that includes a large selection of possible templates.)
 
 2. A second applications menu (the "rootMenu") is revealed by a right-click on the desktop and is a legacy of the original Fluxbox. It is a static and very rapid menu of common applications that can easily be edited by the user. 
 
